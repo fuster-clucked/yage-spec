@@ -1,0 +1,8 @@
+{
+    "remoteEnv": {
+        "GIT_EDITOR": "code --wait"
+    },
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
